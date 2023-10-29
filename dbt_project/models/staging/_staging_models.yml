@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: call_durations
+    description: "Staging model consisting of call events durations"
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+      - name: event_type
+        tests:
+          - not_null
+      - name: start_time
+        tests:
+          - not_null
+  - name: finished_calls
+    description: "Staging model consisting of finished calls"
+    columns:
+      - name: call_id
+        tests:
+          - unique
+          - not_null
+      - name: call_end_time
+        tests:
+          - not_null
+  - name: unfinished_calls
+    description: "Staging model consisting of unfinished calls"
+    columns:
+      - name: call_id
+        tests:
+          - unique
+          - not_null
+      - name: last_event_time
+        tests:
+          - not_null

@@ -1,0 +1,15 @@
+version: 2
+
+seeds:
+  - name: call_events_base
+    description: sample call_events data stored as csv file
+    columns:
+      - name: id
+        tests:
+          - not_null
+      - name: event_type
+        tests:
+          - not_null
+      - name: start_time
+        tests:
+          - not_null

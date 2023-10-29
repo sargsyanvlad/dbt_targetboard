@@ -1,0 +1,301 @@
+id,event_type,start_time
+1,call queued,2023-09-01 09:00:00
+1,call started,2023-09-01 09:02:15
+1,call ended (answer),2023-09-01 09:10:30
+2,call queued,2023-09-01 09:05:30
+2,call started,2023-09-01 09:07:45
+2,call ended (no answer),2023-09-01 09:15:00
+3,call queued,2023-09-01 09:12:00
+3,call started,2023-09-01 09:14:20
+4,call queued,2023-09-01 09:20:00
+4,call started,2023-09-01 09:22:45
+4,call ended (answer),2023-09-01 09:30:15
+4,call queued,2023-09-01 09:35:30
+5,call queued,2023-09-01 09:32:00
+5,call started,2023-09-01 09:35:10
+5,call ended (no answer),2023-09-01 09:42:45
+6,call queued,2023-09-01 09:40:30
+6,call started,2023-09-01 09:43:15
+6,call ended (answer),2023-09-01 09:50:20
+7,call queued,2023-09-01 09:52:00
+7,call started,2023-09-01 09:55:25
+7,call ended (answer),2023-09-01 09:58:45
+8,call queued,2023-09-01 10:02:30
+8,call started,2023-09-01 10:05:40
+8,call ended (no answer),2023-09-01 10:12:15
+9,call queued,2023-09-01 10:15:00
+9,call started,2023-09-01 10:17:30
+9,call ended (answer),2023-09-01 10:20:45
+10,call queued,2023-09-01 10:22:30
+10,call started,2023-09-01 10:25:15
+10,call ended (no answer),2023-09-01 10:32:00
+11,call queued,2023-09-01 10:35:10
+11,call started,2023-09-01 10:37:30
+11,call ended (answer),2023-09-01 10:40:45
+12,call queued,2023-09-01 10:42:30
+12,call started,2023-09-01 10:45:00
+12,call ended (answer),2023-09-01 10:48:15
+13,call queued,2023-09-01 10:50:30
+13,call started,2023-09-01 10:53:45
+13,call ended (no answer),2023-09-01 10:57:20
+14,call queued,2023-09-01 11:00:30
+14,call started,2023-09-01 11:02:50
+14,call ended (answer),2023-09-01 11:05:05
+15,call queued,2023-09-01 11:10:00
+15,call started,2023-09-01 11:12:15
+15,call ended (answer),2023-09-01 11:15:30
+16,call queued,2023-09-01 11:20:30
+16,call started,2023-09-01 11:22:45
+16,call ended (no answer),2023-09-01 11:25:00
+17,call queued,2023-09-01 11:30:15
+17,call started,2023-09-01 11:32:30
+17,call ended (answer),2023-09-01 11:35:45
+18,call queued,2023-09-01 11:40:45
+18,call started,2023-09-01 11:42:50
+18,call ended (no answer),2023-09-01 11:45:05
+19,call queued,2023-09-01 11:50:00
+19,call started,2023-09-01 11:52:15
+19,call ended (answer),2023-09-01 11:55:30
+20,call queued,2023-09-01 12:00:15
+20,call started,2023-09-01 12:02:30
+20,call ended (no answer),2023-09-01 12:05:45
+21,call queued,2023-09-01 12:10:30
+21,call started,2023-09-01 12:12:45
+21,call ended (answer),2023-09-01 12:15:00
+22,call queued,2023-09-01 12:20:15
+22,call started,2023-09-01 12:22:30
+22,call ended (no answer),2023-09-01 12:25:45
+23,call queued,2023-09-01 12:30:45
+23,call started,2023-09-01 12:32:50
+23,call ended (answer),2023-09-01 12:35:05
+24,call queued,2023-09-01 12:40:15
+24,call started,2023-09-01 12:42:30
+24,call ended (no answer),2023-09-01 12:45:45
+25,call queued,2023-09-01 12:50:30
+25,call started,2023-09-01 12:52:45
+25,call ended (answer),2023-09-01 12:55:00
+26,call queued,2023-09-01 13:00:45
+26,call started,2023-09-01 13:02:50
+26,call ended (no answer),2023-09-01 13:05:05
+27,call queued,2023-09-01 13:10:00
+27,call started,2023-09-01 13:12:15
+27,call ended (answer),2023-09-01 13:15:30
+28,call queued,2023-09-01 13:20:45
+28,call started,2023-09-01 13:22:50
+28,call ended (no answer),2023-09-01 13:25:05
+29,call queued,2023-09-01 13:30:30
+29,call started,2023-09-01 13:32:45
+29,call ended (answer),2023-09-01 13:35:00
+30,call queued,2023-09-01 13:40:15
+30,call started,2023-09-01 13:42:30
+30,call ended (no answer),2023-09-01 13:45:45
+31,call queued,2023-09-01 13:50:30
+31,call started,2023-09-01 13:52:45
+31,call ended (answer),2023-09-01 13:55:00
+32,call queued,2023-09-01 14:00:45
+32,call started,2023-09-01 14:02:50
+32,call ended (no answer),2023-09-01 14:05:05
+33,call queued,2023-09-01 14:10:00
+33,call started,2023-09-01 14:12:15
+33,call ended (answer),2023-09-01 14:15:30
+34,call queued,2023-09-01 14:20:45
+34,call started,2023-09-01 14:22:50
+34,call ended (no answer),2023-09-01 14:25:05
+35,call queued,2023-09-01 14:30:30
+35,call started,2023-09-01 14:32:45
+35,call ended (answer),2023-09-01 14:35:00
+36,call queued,2023-09-01 14:40:15
+36,call started,2023-09-01 14:42:30
+36,call ended (no answer),2023-09-01 14:45:45
+37,call queued,2023-09-01 14:50:30
+37,call started,2023-09-01 14:52:45
+37,call ended (answer),2023-09-01 14:55:00
+38,call queued,2023-09-01 15:00:45
+38,call started,2023-09-01 15:02:50
+38,call ended (no answer),2023-09-01 15:05:05
+39,call queued,2023-09-01 15:10:00
+39,call started,2023-09-01 15:12:15
+39,call ended (answer),2023-09-01 15:15:30
+40,call queued,2023-09-01 15:20:45
+40,call started,2023-09-01 15:22:50
+40,call ended (no answer),2023-09-01 15:25:05
+41,call queued,2023-09-01 15:30:30
+41,call started,2023-09-01 15:32:45
+41,call ended (answer),2023-09-01 15:35:00
+42,call queued,2023-09-01 15:40:15
+42,call started,2023-09-01 15:42:30
+42,call ended (no answer),2023-09-01 15:45:45
+43,call queued,2023-09-01 15:50:30
+43,call started,2023-09-01 15:52:45
+43,call ended (answer),2023-09-01 15:55:00
+44,call queued,2023-09-01 16:00:45
+44,call started,2023-09-01 16:02:50
+44,call ended (no answer),2023-09-01 16:05:05
+45,call queued,2023-09-01 16:10:00
+45,call started,2023-09-01 16:12:15
+45,call ended (answer),2023-09-01 16:15:30
+46,call queued,2023-09-01 16:20:45
+46,call started,2023-09-01 16:22:50
+46,call ended (no answer),2023-09-01 16:25:05
+47,call queued,2023-09-01 16:30:30
+47,call started,2023-09-01 16:32:45
+47,call ended (answer),2023-09-01 16:35:00
+48,call queued,2023-09-01 16:40:15
+48,call started,2023-09-01 16:42:30
+48,call ended (no answer),2023-09-01 16:45:45
+49,call queued,2023-09-01 16:50:30
+49,call started,2023-09-01 16:52:45
+49,call ended (answer),2023-09-01 16:55:00
+50,call queued,2023-09-01 17:00:45
+50,call started,2023-09-01 17:02:50
+50,call ended (no answer),2023-09-01 17:05:05
+51,call queued,2023-09-01 17:10:30
+51,call started,2023-09-01 17:12:45
+51,call ended (answer),2023-09-01 17:15:00
+52,call queued,2023-09-01 17:20:15
+52,call started,2023-09-01 17:22:30
+52,call ended (no answer),2023-09-01 17:25:45
+53,call queued,2023-09-01 17:30:30
+53,call started,2023-09-01 17:32:45
+53,call ended (answer),2023-09-01 17:35:00
+54,call queued,2023-09-01 17:40:45
+54,call started,2023-09-01 17:42:50
+54,call ended (no answer),2023-09-01 17:45:05
+55,call queued,2023-09-01 17:50:30
+55,call started,2023-09-01 17:52:45
+55,call ended (answer),2023-09-01 17:55:00
+56,call queued,2023-09-01 18:00:15
+56,call started,2023-09-01 18:02:30
+56,call ended (no answer),2023-09-01 18:05:45
+57,call queued,2023-09-01 18:10:30
+57,call started,2023-09-01 18:12:45
+57,call ended (answer),2023-09-01 18:15:00
+58,call queued,2023-09-01 18:20:45
+58,call started,2023-09-01 18:22:50
+58,call ended (no answer),2023-09-01 18:25:05
+59,call queued,2023-09-01 18:30:30
+59,call started,2023-09-01 18:32:45
+59,call ended (answer),2023-09-01 18:35:00
+60,call queued,2023-09-01 18:40:15
+60,call started,2023-09-01 18:42:30
+60,call ended (no answer),2023-09-01 18:45:45
+61,call queued,2023-09-01 18:50:30
+61,call started,2023-09-01 18:52:45
+61,call ended (answer),2023-09-01 18:55:00
+62,call queued,2023-09-01 19:00:45
+62,call started,2023-09-01 19:02:50
+62,call ended (no answer),2023-09-01 19:05:05
+63,call queued,2023-09-01 19:10:30
+63,call started,2023-09-01 19:12:45
+63,call ended (answer),2023-09-01 19:15:00
+64,call queued,2023-09-01 19:20:15
+64,call started,2023-09-01 19:22:30
+64,call ended (no answer),2023-09-01 19:25:45
+65,call queued,2023-09-01 19:30:30
+65,call started,2023-09-01 19:32:45
+65,call ended (answer),2023-09-01 19:35:00
+66,call queued,2023-09-01 19:40:45
+66,call started,2023-09-01 19:42:50
+66,call ended (no answer),2023-09-01 19:45:05
+67,call queued,2023-09-01 19:50:30
+67,call started,2023-09-01 19:52:45
+67,call ended (answer),2023-09-01 19:55:00
+68,call queued,2023-09-01 20:00:15
+68,call started,2023-09-01 20:02:30
+68,call ended (no answer),2023-09-01 20:05:45
+69,call queued,2023-09-01 20:10:30
+69,call started,2023-09-01 20:12:45
+69,call ended (answer),2023-09-01 20:15:00
+70,call queued,2023-09-01 20:20:45
+70,call started,2023-09-01 20:22:50
+70,call ended (no answer),2023-09-01 20:25:05
+71,call queued,2023-09-01 20:30:30
+71,call started,2023-09-01 20:32:45
+71,call ended (answer),2023-09-01 20:35:00
+72,call queued,2023-09-01 20:40:15
+72,call started,2023-09-01 20:42:30
+72,call ended (no answer),2023-09-01 20:45:45
+73,call queued,2023-09-01 20:50:30
+73,call started,2023-09-01 20:52:45
+73,call ended (answer),2023-09-01 20:55:00
+74,call queued,2023-09-01 21:00:45
+74,call started,2023-09-01 21:02:50
+74,call ended (no answer),2023-09-01 21:05:05
+75,call queued,2023-09-01 21:10:30
+75,call started,2023-09-01 21:12:45
+75,call ended (answer),2023-09-01 21:15:00
+76,call queued,2023-09-01 21:20:15
+76,call started,2023-09-01 21:22:30
+76,call ended (no answer),2023-09-01 21:25:45
+77,call queued,2023-09-01 21:30:30
+77,call started,2023-09-01 21:32:45
+77,call ended (answer),2023-09-01 21:35:00
+78,call queued,2023-09-01 21:40:45
+78,call started,2023-09-01 21:42:50
+78,call ended (no answer),2023-09-01 21:45:05
+79,call queued,2023-09-01 21:50:30
+79,call started,2023-09-01 21:52:45
+79,call ended (answer),2023-09-01 21:55:00
+80,call queued,2023-09-01 22:00:15
+80,call started,2023-09-01 22:02:30
+80,call ended (no answer),2023-09-01 22:05:45
+81,call queued,2023-09-01 22:10:30
+81,call started,2023-09-01 22:12:45
+81,call ended (answer),2023-09-01 22:15:00
+82,call queued,2023-09-01 22:20:15
+82,call started,2023-09-01 22:22:30
+82,call ended (no answer),2023-09-01 22:25:45
+83,call queued,2023-09-01 22:30:30
+83,call started,2023-09-01 22:32:45
+83,call ended (answer),2023-09-01 22:35:00
+84,call queued,2023-09-01 22:40:45
+84,call started,2023-09-01 22:42:50
+84,call ended (no answer),2023-09-01 22:45:05
+85,call queued,2023-09-01 22:50:30
+85,call started,2023-09-01 22:52:45
+85,call ended (answer),2023-09-01 22:55:00
+86,call queued,2023-09-01 23:00:15
+86,call started,2023-09-01 23:02:30
+86,call ended (no answer),2023-09-01 23:05:45
+87,call queued,2023-09-01 23:10:30
+87,call started,2023-09-01 23:12:45
+87,call ended (answer),2023-09-01 23:15:00
+88,call queued,2023-09-01 23:20:15
+88,call started,2023-09-01 23:22:30
+88,call ended (no answer),2023-09-01 23:25:45
+89,call queued,2023-09-01 23:30:30
+89,call started,2023-09-01 23:32:45
+89,call ended (answer),2023-09-01 23:35:00
+90,call queued,2023-09-01 23:40:45
+90,call started,2023-09-01 23:42:50
+90,call ended (no answer),2023-09-01 23:45:05
+91,call queued,2023-09-01 23:50:30
+91,call started,2023-09-01 23:52:45
+91,call ended (answer),2023-09-01 23:55:00
+92,call queued,2023-09-02 00:00:15
+92,call started,2023-09-02 00:02:30
+92,call ended (no answer),2023-09-02 00:05:45
+93,call queued,2023-09-02 00:10:30
+93,call started,2023-09-02 00:12:45
+93,call ended (answer),2023-09-02 00:15:00
+94,call queued,2023-09-02 00:20:15
+94,call started,2023-09-02 00:22:30
+94,call ended (no answer),2023-09-02 00:25:45
+95,call queued,2023-09-02 00:30:30
+95,call started,2023-09-02 00:32:45
+95,call ended (answer),2023-09-02 00:35:00
+96,call queued,2023-09-02 00:40:45
+96,call started,2023-09-02 00:42:50
+96,call ended (no answer),2023-09-02 00:45:05
+97,call queued,2023-09-02 00:50:30
+97,call started,2023-09-02 00:52:45
+97,call ended (answer),2023-09-02 00:55:00
+98,call queued,2023-09-02 01:00:15
+98,call started,2023-09-02 01:02:30
+98,call ended (no answer),2023-09-02 01:05:45
+99,call queued,2023-09-02 01:10:30
+99,call started,2023-09-02 01:12:45
+99,call ended (answer),2023-09-02 01:15:00
+100,call queued,2023-09-02 01:20:15
+100,call started,2023-09-02 01:22:30
+100,call ended (no answer),2023-09-02 01:25:45
